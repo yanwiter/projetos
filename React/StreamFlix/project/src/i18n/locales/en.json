@@ -1,0 +1,15 @@
+{
+  "title": "StreamFlix",
+  "nav": {
+    "home": "Home",
+    "movies": "Movies",
+    "series": "TV Shows",
+    "myList": "My List"
+  },
+  "featured": "Featured Movies",
+  "rentNow": "Rent Now",
+  "price": "Price",
+  "rating": "Rating",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode"
+}

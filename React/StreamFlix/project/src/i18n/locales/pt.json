@@ -1,0 +1,15 @@
+{
+  "title": "StreamFlix",
+  "nav": {
+    "home": "Início",
+    "movies": "Filmes",
+    "series": "Séries",
+    "myList": "Minha Lista"
+  },
+  "featured": "Filmes em Destaque",
+  "rentNow": "Alugar Agora",
+  "price": "Preço",
+  "rating": "Avaliação",
+  "darkMode": "Modo Escuro",
+  "lightMode": "Modo Claro"
+}
